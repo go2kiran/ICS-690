@@ -14,7 +14,8 @@ Being a new to the blockchain technology and based on the projects explored pers
 The record of my GitHub commits is proof of my reputation as a software developer. I use that reputation to get fund for the DApp and make it live. I will use the GitHub commits to showcase my contribution towards the Chitfund DApp group project and get an A in the class.
 
 ## Worst Case
-The group project fails, so I will work on an individual project. Minimally, I’m expected to copy a tutorial and adapt it to finish my own personal DApp. In that case I have decided to work on a Marketplace DApp, because there are lot of interest in Marketplace DApps, and it will be quick to find out a Dapp that can be cloned. A variety of contracts can be established for Marketplace DApps to eliminate middleman for the transactions, this will also improve the transparency and reduce the cost associated with contracts.
+The group project fails, so I will work on an individual project. Minimally, I’m expected to copy a tutorial and adapt it to finish my own personal DApp. In that case I have decided to work on a Marketplace DApp, because there are lot of interest in Marketplace DApps, and it will be quick to find out a Dapp that can be cloned. A variety of contracts can be established for Marketplace DApps to eliminate middleman for the transactions, this will also improve the transparency and reduce the cost associated with contracts. 
+
 I finish the DApp and publish it on my personal repository on GitHub. It compiles, proving my project works. I write up a presentation explaining what I did and present it at the end of the semester and I get an A in the class. I use this record of my GitHub commits as proof of my reputation as a software developer to enhance the capabilities of the Marketplace Dapp and look forward to implementing the same in real life.
 
 ## Worst Worst Case Scenario
